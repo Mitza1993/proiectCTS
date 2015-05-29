@@ -1,0 +1,22 @@
+# liniile care incep cu # sunt comentarii
+# test valori ok creare vehicule
+# valori initiale
+AUTOBUZ	1	SAS123
+
+# pret vehicul
+MOTOCICLETA	2	SAS345 1234
+
+# o singura valoare => nu proceseaza nimic
+123
+
+# nu specifica tipul vehiculului => nu proceseaza nimic
+123	123	123 
+
+AUTOTURISM	23	SASIU23	58639	2009	BMW
+
+#
+#
+
+###
+
+
